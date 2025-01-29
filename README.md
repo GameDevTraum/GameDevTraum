@@ -1,4 +1,6 @@
-## Hi there 👋
+## A video on how to clone my Unity projects with GitHub Desktop 👇
+https://www.youtube.com/watch?v=Bvds3-RCYvk
+[![thumnail of a video on how to clone a github unity project](https://img.youtube.com/vi/Bvds3-RCYvk/0.jpg)](https://www.youtube.com/watch?v=Bvds3-RCYvk)
 
 <!--
 **GameDevTraum/GameDevTraum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
